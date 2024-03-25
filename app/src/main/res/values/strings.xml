@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barkia_Firas_I1_Mesure_Glycemie</string>
+    <string name="text">Mesure de niveau de glycémie</string>
+    <string name="tvAgetext">Votre âge</string>
+    <string name="question">Est-ce que vous jeûnez?</string>
+    <string name="nonText">non\n</string>
+</resources>
