@@ -7,7 +7,7 @@
     android:background="@drawable/app_background"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".MainActivity">
+    tools:context=".vue.MainActivity">
     <TextView
         android:id="@+id/title"
         android:layout_width="match_parent"
